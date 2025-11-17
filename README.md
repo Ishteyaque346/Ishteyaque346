@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishteyaque346" alt="ishteyaque346" /></a> </p>
 
-- 🔭 I’m currently working on **To Do App**
+- 🔭 I’m currently working on **Expense Tracker**
 
-- 🌱 I’m currently learning **Drum Kit App**
+- 🌱 I’m currently learning **Single page App**
 
 - 👯 I’m looking to collaborate on **Code Reviewer Appp**
 
