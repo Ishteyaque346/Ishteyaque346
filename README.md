@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishteyque Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center> Passionate frontend developer with 2+ years of experience building scalable and responsive web apps using React, TypeScript, and TailwindCSS.
+> 
+> 
+> I focus on writing clean, maintainable code and crafting great user experiences. Whether it’s optimizing Lighthouse scores or implementing pixel-perfect UIs, I enjoy the challenge.
+> 
+> I'm always eager to collaborate, learn, and contribute to impactful projects.
+></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishteyaque346&label=Profile%20views&color=0e75b6&style=flat" alt="ishteyaque346" /> </p>
 
