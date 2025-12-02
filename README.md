@@ -11,10 +11,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishteyaque346" alt="ishteyaque346" /></a> </p>
 
-- 🔭 I’m currently working on **Expense Tracker**
+- 🔭 I’m currently working on **Expense Tracker, Single page App,  jemini clone**
 
-- 🌱 I’m currently learning **Single page App**
-- - 🌱 I’m currently learning **jemini clone**
+- 🌱 I’m currently learning **Next.js**
+- - 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Code Reviewer Appp**
 
