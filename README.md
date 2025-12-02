@@ -14,6 +14,7 @@
 - 🔭 I’m currently working on **Expense Tracker**
 
 - 🌱 I’m currently learning **Single page App**
+- - 🌱 I’m currently learning **jemini clone**
 
 - 👯 I’m looking to collaborate on **Code Reviewer Appp**
 
