@@ -1,43 +1,90 @@
-<h1 align="center">Hi 👋, I'm Ishteyque Alam</h1>
-<h3 align="center> Passionate frontend developer with 2+ years of experience building scalable and responsive web apps using React, TypeScript, and TailwindCSS.
-> 
-> 
-> I focus on writing clean, maintainable code and crafting great user experiences. Whether it’s optimizing Lighthouse scores or implementing pixel-perfect UIs, I enjoy the challenge.
-> 
-> I'm always eager to collaborate, learn, and contribute to impactful projects.
-></h3>
+<h1 align="center">Hi 👋, I'm Ishteyaque Alamn</h1>
+<h3 align="center"> Junior Frontend Developer | Mern Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishteyaque346&label=Profile%20views&color=0e75b6&style=flat" alt="ishteyaque346" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishteyaque346" alt="ishteyaque346" /></a> </p>
-
-- 🔭 I’m currently working on **Expense Tracker, Single page App,  jemini clone**
-
-- 🌱 I’m currently learning **Next.js**
-- - 🌱 I’m currently learning **Typescript**
-
-- 👯 I’m looking to collaborate on **Code Reviewer Appp**
-
-- 🤝 I’m looking for help with **Chat App**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-psi-two-93.vercel.app/](https://my-portfolio-psi-two-93.vercel.app/)
-
-- 📝 I regularly write articles on [https://my-portfolio-psi-two-93.vercel.app/](https://my-portfolio-psi-two-93.vercel.app/)
-
-- 💬 Ask me about **Javascript React.js Next.js**
-
-- 📫 How to reach me **Ishteyaquealam8809@gmail.com**
-
-- 📄 Know about my experiences [https://my-portfolio-psi-two-93.vercel.app/](https://my-portfolio-psi-two-93.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishteyaque-alam-he-him-834233226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishteyaque-alam-he-him-834233226/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=A9856&label=Profile%20views&color=0e75b6&style=flat" alt="A9856" />
+</p>
+<hr>
+<h4>About Me</h4>
+<p align="justify">I'm a passionate Frontend Developer focused on building real-world, scalable, and high-performance web applications. I enjoy converting complex requirements into clean, efficient, and user-friendly solutions.
+I specialize in Frontend , <b>React, Next.js, and  Javascript with hands-on experience in REST APIs, MongoDB, MySQL</b>, and modern responsive UI frameworks.<br>
+🐞<b>Strong interest in bug fixing and debugging, with a problem-solving mindset to improve application performance and stability.</b><br>
+🐞<b>Passionate about bug fixing, debugging & performance optimization.</b><br>
+👨‍🏫<b>6 months React.js teaching experience | E-commerce & team leadership projects guiding learners through core concepts and practical implementation.</b><br>
+🏢 <b>CodeCompass</b> | Open to collaboration
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+📫 **Email:**<b> Ishteyaquealam8809@gmail.com</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishteyaque346&show_icons=true&locale=en&layout=compact" alt="ishteyaque346" /></p>
+🔗 **GitHub:**<b> https://github.com/Ishteyaque346</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishteyaque346&show_icons=true&locale=en" alt="ishteyaque346" /></p>
+🔗 **Linkedin:**<b> https://www.linkedin.com/in/ishteyaque-alam-he-him-834233226</b>
+
+## 🚀 Languages & Tools
+---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,regex,nextjs,nodejs,express,mongodb,postman,npm,yarn,vite,vercel,git,github,vscode,visualstudio&perline=8" />
+</p>
+
+<hr>
+<!-- Frontend Skills -->
+<h5>Front-End Skills</h5>
+
+**HTML5**  
+![HTML](https://readmebadge.vercel.app/badges/html.svg)  
+`█████████░` 90%
+
+**CSS3**  
+![CSS](https://readmebadge.vercel.app/badges/css.svg)  
+`███████░░░` 70%
+
+**Bootstrap 5**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+`███████░░░` 70%
+
+**Material UI**  
+![Material UI](https://readmebadge.vercel.app/badges/materialui.svg)  
+`█████░░░░░` 50%
+
+**JavaScript**  
+![JavaScript](https://readmebadge.vercel.app/badges/javascript.svg)  
+`██████░░░░` 60%
+
+**React.js**  
+![React](https://readmebadge.vercel.app/badges/react.svg)  
+`███████░░░` 70%
+
+**Tailwind CSS**  
+![Tailwind CSS](https://readmebadge.vercel.app/badges/tailwind.svg)  
+`█████░░░░░` 50%
+
+**Next.js**  
+![Next.js](https://readmebadge.vercel.app/badges/nextjs.svg)  
+`███████░░░` 70%
+<!-- Backend Skills (aapka existing) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
